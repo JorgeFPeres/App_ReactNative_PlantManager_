@@ -39,7 +39,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone  && cd nlw-05-plantmanager
+$ git clone https://github.com/JorgeFPeres/App_ReactNative_PlantManager_.git  && cd nlw-05-plantmanager
 ```
 
 Follow the steps below
