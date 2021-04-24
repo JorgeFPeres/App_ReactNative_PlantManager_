@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Made with ❤️ by [Jorge F Peres]
+Made with ❤️ by Jorge F Peres
