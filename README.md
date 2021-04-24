@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/plantmanager-preview.png">
+  <img alt="Moveit" src="github/plantmanager-preview.png">
 </p>
 
 ---
